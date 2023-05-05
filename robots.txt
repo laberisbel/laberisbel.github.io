@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://laberisbel.github.io/sitemap.xml
